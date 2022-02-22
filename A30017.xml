@@ -1,0 +1,838 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of three judgments given forth by a party of men, called Quakers at Philadelphia, against George Keith and his friends with two answers to the said judgments.</title>
+            <author>Budd, Thomas, 1648-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30017</idno>
+            <idno type="STC">Wing B5361</idno>
+            <idno type="STC">ESTC R1869</idno>
+            <idno type="EEBO-CITATION">12242483</idno>
+            <idno type="OCLC">ocm 12242483</idno>
+            <idno type="VID">56826</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30017)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56826)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 885:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of three judgments given forth by a party of men, called Quakers at Philadelphia, against George Keith and his friends with two answers to the said judgments.</title>
+                  <author>Budd, Thomas, 1648-1699.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Philadelphia :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:56826:1"/>
+            <pb n="1" facs="tcp:56826:1"/>
+            <head>A true Copy of three Judgments given forth by a Party of Men, called <hi>Quakers</hi> at <hi>Philadelphia,</hi> againſt <hi>George Keith</hi> and his Friends. With two Anſwers to the ſaid Judgments.</head>
+            <div type="part">
+               <head>The Firſt Judgment.</head>
+               <p>AT a Monthly Meeting in <hi>Philadelphia,</hi> the 26th of 11 Mon. 1691. <hi>Thomas Fitzwater</hi> charged <hi>George Keith</hi> for <hi>denying the ſufficiency of the Light,</hi> which <hi>G. Keith</hi> denying, <hi>T. Fitzwater</hi> inſiſted that he could prove the ſame, &amp; being examined concerning his Proof thereof, ſeveral Friends preſent ſtood up, and ſaid, <hi>They heard the ſaid</hi> George Keith <hi>ſay, That he did not believe the Light was ſufficient without ſomething elſe,</hi> namely, <hi>Thomas Prichard, William Harwood, Benjamin Chambers, William Southbe,</hi> and ſeveral others. And after the matter in Debate had been throughly heard, the aforeſaid Credible Evidences giving their Teſtimonies as above-ſaid, the Meeting ſaw no reaſon to give Judgment againſt <hi>Tho. Fitzwater</hi> in this particular above-mentioned; but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaid <hi>Thomas</hi> very readily left the matter to this Meeting and condemned the raſh Spirit that he ſpoke thoſe words in, although the Charge in it ſelf was true.</p>
+               <closer>
+                  <dateline>
+                     <hi>This is a Copy of what paſſed at a Monthly Meeting in</hi> Philadelphia, <date>
+                        <hi>the</hi> 26 <hi>of</hi> 3 <hi>Month.</hi> 1692.</date>
+                  </dateline>
+                  <signed>A. M.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Second Jud<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment.</head>
+               <p>VVE being prevented in our Meetings of late, to proceed order<g ref="char:EOLhyphen"/>ly in buſineſs, by reaſon of a Turbulent &amp; unſubdued Spirit, which has much diſquieted us, but having reſpite at this time, have conſidered ſeriouſly and duely of a Charge exhibited ſeveral Months paſt by <hi>George Keith</hi> againſt <hi>William Stockdale,</hi> many if not most of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:56826:2"/>
+being preſent at ſeveral Meetings, where the Allegations of each ſide were heard; and as the Friends then preſent concluded on a Judgment in this matter, but were prevented of publiſhing the ſame, by reaſon of <hi>George Keith</hi>'s unruly behaviour, &amp; extream Paſſion, which abruptly broke up the ſaid Meeting, we declare our concurrent ſence as follow<g ref="char:EOLhyphen"/>eth, That whereas Proof was made by two Witneſſes, <hi>That William Stockdale ſhould ſay, that</hi> Gen. Keith's <hi>preaching Christ without, and Chriſt within was preaching two Chriſts,</hi> which <hi>W. Stockdale</hi> denyed the words ſo ſpoken; and alleged that <hi>Geo. Keith</hi> called him an <hi>Ignorant Heathen,</hi> and gave him ſeveral villifying Expreſſions. Our Judgment is, <hi>That</hi> William Stockdale <hi>is reproveable, and blame-worthy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or uttering the ſaid words, they being an Offence to many ſound and tender Friends, and that he condemn the ſame.</hi> And as for <hi>G. Keith</hi>'s manner of proceeding againſt him, we cannot own the ſame to be purſuant to Goſpel Order, the ſaid <hi>G. Keith</hi> having not alone dealt with him in private before he had further proſecuted his Complaint; neither can we hold him ex<g ref="char:EOLhyphen"/>cuſeable for his undecent expreſſions to <hi>W. Stockdale,</hi> he being elder in Truth and in Years.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given forth by the Meeting of Publick Friends, at</hi> Philadelphia, <date>
+                        <hi>the 4th of 4th Month,</hi> 1692.</date>
+                  </dateline>
+                  <signed>A True Copy, by <hi>Samuell Jenings.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Third Judgment, and Condemnation, againſt <hi>G. K.</hi>
+               </head>
+               <head type="sub">To the ſeveral Monethly and Quarterly Meetings in <hi>Pennſilvania, Eaſt</hi> and <hi>Weſt-Jarſey,</hi> and elſe-where, as there may be occaſion.</head>
+               <p>BEloved Friends, In tender Love, and with Spirits bowed down before the Lord, is this our Salutation unto you, earneſtly de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing your growth and daily preſervation in the antient <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and in the ſimplicity of the Goſpel of our Lord Jeſus Chriſt; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or hope and breathings are, that no inſinuations or wiles of the Enemy ſhall prevail to turn you aſide from, our ſtedfaſtneſs, or to cauſe you ſo eſteem lightly of the rock and way of Gods Salvation unto you, but that you be kept in the light and life, which was &amp; is the j<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t mans path, to the end of on days, <hi>Amen.</hi>
+               </p>
+               <p>Now, <hi>dear Friends,</hi> it is with ſorrow of Spirits and grief of Souls, that we ſignifie unto you the tedious Exerciſe &amp; vexatious Perplexity
+<pb n="3" facs="tcp:56826:2"/>
+we have met with in our late Friend <hi>George Keith,</hi> for ſeveral Months paſt; With mourning &amp; lamentation do we ſay, How is this Mighty Man fallen! how is his Shield vilely caſt away, as though he had not known the Oyl of the holy Oyntment! How ſhall it be told in <hi>G<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> &amp; publiſhed in the Streets of <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kelon?</hi> Will not the daughters of the <hi>Phileſtians</hi> rejoyce? Will not the daughters of the Uncircumciſed Tri<g ref="char:EOLhyphen"/>umph, when they hear that <hi>he is fallen upon the ſoaring Mountains, and from the high Places of</hi> Iſrael! Oh! how are we diſtreſſed for thee, thou as a man ſlain in thy high places! Whilſt thou walked in the Counſel of God, &amp; wert little in thine own Eyes, thy Bow did abide in ſtrength, thy Sword returned not empty; from the ſat of the Enemies of God thy Bow turned not back; His Enemies were then vile unto thee, and his Followers honourable in thy eſteem. Oh! how lovely wert thou in that day, when his Beauty was upon thee, and when his Comlineſs covered thee! Why ſhould his Ornaments exalt thee, which were given to humble thee before him! and how thou art <hi>fallen from thy firſt Love,</hi> and are <hi>become Treacherous to the Spouſe of thy Youth!</hi> Conſider where thou art fallen, and Repent, and do thy firſt Works.</p>
+               <p>But ſo it hath happen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Friends, leſt any Fleſh ſhould glory, but be<g ref="char:EOLhyphen"/>come Silent before the Lord, that this once <hi>Eminent Man</hi> and <hi>Inſtru<g ref="char:EOLhyphen"/>ment of Renown</hi> in the Hand of the Lord, whilſt he kept his firſt Habi<g ref="char:EOLhyphen"/>tation, and knew the Government of Truth over his own Spirit, and witneſſed the ſame to be a Bridle to his Tongue, was then ſerviceable both in Pen and Speech to the Churches of Chriſt; But now, and of late, it is too obvious and apparent, that being degenerated from the lowly meek and peaceable Spirit of Chriſt Jeſus, and grown cool in Charity and love towards his Brethren, that he is <hi>Gone into a Spirit of Enmity, Wrath, Self-Exaltation, Contention &amp; Janglings;</hi> and as a <hi>Perſon without the fear of God before his Eyes,</hi> and <hi>without regard to his Chriſtian Brethren,</hi> and <hi>letting looſe the Reins to an Extravagant Tongue,</hi> he hath broken out into many <hi>
+                     <g ref="char:V">Ʋ</g>ngodly Speeches, Railing Accuſations and Paſ<g ref="char:EOLhyphen"/>ſionate Threatnings</hi> towards many of his Brethren and Elders, and that upon ſlender Occaſions; and when ſome in Chriſtian Duty have laid before him his unſavoury words and unchriſtian-frame, he hath treated them with ſuch vile words and abuſive language, ſuch as a Perſon of common civility would loath. It hath been too frequent with him, &amp; that in a tranſport of Heat and Paſſion, to call ſome of his Brethren in the Miniſtry, and other Elders, and that upon ſmall Provocations, if
+<pb n="4" facs="tcp:56826:3"/>
+any, <hi>Fools, Ignorant Heathens, Infidels, Silly Souls, Lyars, Hereticks, Rotten Ranters, Muggletonians,</hi> &amp; other Names of that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> famous ſtrain, thereby to our grief <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oaming out his own Shame.</hi> And further, his <hi>Anger and Envy,</hi> being <hi>Cruel against us,</hi> and not contenting himſelf with his Harſhneſs againſt Perſons, but he proceeded in bitterneſs of Spirit to charge our Meeting with being <hi>come together to cloak Hereſie and Deceit,</hi> and publiſhing openly ſeveral times, <hi>That there were more Doctrines of Devils and Damnable Hereſies among the</hi> Quakers, <hi>than among any Profeſ<g ref="char:EOLhyphen"/>ſion among the</hi> Proteſtants. He hath long objected againſt our Diſci<g ref="char:EOLhyphen"/>pline, even ſoon after his coming among us, and having prepared a Draught of his own, and the ſame not finding the expected Reception, he ſeem'd diſguſted ſince: He hath often quarrell'd with us about Con<g ref="char:EOLhyphen"/>feſſions, declaring, <hi>That he knew none given forth by the body of Friends to his Satisfaction;</hi> and often charg'd moſt of us of being unſound in the Faith. We have offered in ſeveral Meetings for his ſatisfaction, and to prevent ſtrife among us, &amp; for preſerving the Peace of the Church to deliver a Confeſſion of our <hi>Chriſtian Faith</hi> in the words of our Lord and Saviour Jeſus Chriſt, the Author of the <hi>Chriſtian Faith,</hi> and in the word of the Apoſtles &amp; Diſciples, his faithful Followers; or we would declare our belief in Teſtimonies of our antient Friends and faithful Brethren, who were generally received by us; or we would concur &amp; agree upon a Confeſſion, and have it tranſmitted to the Approbation of the Yearly Meeting here, or the Yearly Meeting at <hi>London;</hi> y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a, it was offered unto him at the ſame time, that a Confeſſion concerning the <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> matter in Controverſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ſhould <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e given out of a Book of his own, but al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſlighted a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inſufficient: The Lord knows the trouble which we have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad with this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Member, and the openneſs of our hearts and well wiſhes towards him, notwithſtanding his rage and violence againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and of the endeavours of many in this place to have gain'd upon him by a friendly converſe, and by other means not inconſiderable to a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>otherly freedom; but one labour hither to ſeems to be a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> water ſpil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon the ground: <hi>And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Meeting having Tenderly and Orderly dealt wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> for his <hi>abuſive Language and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſorderly Behaviour,</hi> he hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſlighted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Applications of g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing him to a ſence of his ill Treatment<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Miſcarriages, but in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ner ſaid to the Friends appointed by the Meeting to admoniſh him <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Judgment of the meeting under his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>;</hi> and hath of late ſet up a ſeperate Meeting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, where he hath, like an open Oppoſer, not only
+<pb n="5" facs="tcp:56826:3"/>
+reviled ſeveral Friends, by expoſing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Religions Reputations in mix<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Auditories of ſome hundreds, endeavouring to render them &amp; Friends here, by the Preſs and otherways, a ſcorn to the Prophane, &amp; the Song of the Drunkards, but he hath traduced &amp; villified our worthy travel<g ref="char:EOLhyphen"/>ing Friends <hi>J D.</hi> and <hi>T. W.</hi> in their Powerful and ſavoury Miniſtry, whoſe ſervice is not only here, but in moſt Meetings in <hi>England, Scotland</hi> and <hi>Ireland</hi> well known to have a ſeal in the hearts of many thouſands of the <hi>Iſrael</hi> of God: he hath hath alſo within a few weeks appeared in oppoſition as it were, to the Body of Friends, by putting on his Hat when our well received and recommended Friend <hi>J. Dickenſon</hi> was at Prayer, &amp; that in a Meeting of near a thouſand Friends &amp; others, &amp; ſo going out of the Meeting, to the great diſquiet thereof, &amp; to the draw<g ref="char:EOLhyphen"/>ing ſome ſcores into the ſame Oppoſition with him, by his ill Example; and he thus perſiſting in his repeated oppoſitions, hard ſpeeches and continued ſeperation, &amp; labouring, like an unwearied Adverſary, to widen the Breach made by him, &amp; ſo abuſing ſome of the neighbouring Meetings by being as yet under that cover of being owned by us, We are hereby brought under a Religious conſtraint, and to prevent other Meetings of being further injur'd by him, to give forth this Teſtimony, ſtrained as it were from us by his many &amp; violent Provocations, <hi>viz.</hi> That we cannot own him in ſuch ungodly Speeches and diſorderly Be<g ref="char:EOLhyphen"/>haviour, or in his ſeperate Meetings, and that we diſown the ſame, as proceeding from a wrong Spirit, which brings into Diſorder inwardly and le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d into diſtraction and confuſion outwardly, and until he con<g ref="char:EOLhyphen"/>demn and decline the ſame, we cannot receive him in his publick Mi<g ref="char:EOLhyphen"/>niſtry, and would have him ceaſe to offer his Gift, as ſuch, among us, or elſe-where among Friends, till he be reconciled to his offended Bre<g ref="char:EOLhyphen"/>thren,. And as to thoſe few of our Brethren in the Gift of the Miniſtry who a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e gone out with <hi>G. Keith,</hi> into his uncharitable &amp; dividing Spi<g ref="char:EOLhyphen"/>rit, the miſerable effects whereof many of u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have ſufficiently known in <hi>Old England,</hi> and other parts) our Judgment is, <hi>That whilſt they con<g ref="char:EOLhyphen"/>tinue ſuch, they become unqualified to the Work of the Goſpel, as degenerating thereby from the Guidance of Gods bleſſed &amp; peaceable Spirit in their hearts (from whence proceeds the effectual New Teſtament Miniſtry) and being turn<g ref="char:EOLhyphen"/>ed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rom the peaceable Fruits thereof, are gone to <g ref="char:V">Ʋ</g>ncharity and Contention.</hi> And now, all you who have walked in <hi>fellowſhip</hi> and <hi>communion</hi> with us, and are drawn aſide through inconſideration, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> otherwiſe, into this <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> of <hi>Seperation</hi> and <hi>Prejudice</hi> againſt our <hi>Meetings orderly eſtabliſhed,</hi>
+                  <pb facs="tcp:56826:4"/>
+and wherein we have been often and mutually refreſh't together, we cannot but in the fear of God, and in love to your Souls, admoniſh you alſo of the <hi>Inſecurity of your preſent eſtate,</hi> and that <hi>therein we cannot have <g ref="char:V">Ʋ</g>nity with you, and unleſs you return from under that Spirit, Dryneſs and Barrenneſs from the Lord wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be your Reward.</hi> And ſo <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ear Friends,</hi> we exhort you all to behave your ſelves in the <hi>Spirit of meekneſs</hi> &amp; <hi>peace<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ble Truth,</hi> upon all occaſions, but more eſpecially upon any diſcourſe or conference with any of them who are diſcontented among you, or ſtarted aſide f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om you; and avoid all <hi>Heats</hi> &amp; <hi>Contentions in matters of Faith and Worſhip;</hi> and let not the <hi>Salt of the Covenant</hi> be wanting in your words and actions, for thereby the <hi>Savour o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> your Converſation</hi> will reach the <hi>Witneſs of God</hi> in them. The Grace of our Lord Jeſus Chriſt be with you all, <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Given forth by the Meeting of Publick Friends in</hi> Philadelphia, <date>
+                        <hi>the 20th of the 4th Month,</hi> 1692.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Samuell Jenings,</hi>
+                        </item>
+                        <item>
+                           <hi>John Delavall,</hi>
+                        </item>
+                        <item>
+                           <hi>William Yardly,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Kerckbridge,</hi>
+                        </item>
+                        <item>
+                           <hi>Walter Faucet,</hi>
+                        </item>
+                        <item>
+                           <hi>Hugh Roberts,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Owen,</hi>
+                        </item>
+                        <item>
+                           <hi>William Walker,</hi>
+                        </item>
+                        <item>
+                           <hi>John Lynam,</hi>
+                        </item>
+                        <item>
+                           <hi>George Gray,</hi>
+                        </item>
+                        <item>
+                           <hi>John Symcock,</hi>
+                        </item>
+                        <item>
+                           <hi>Griffith Owen,</hi>
+                        </item>
+                        <item>
+                           <hi>John Bown,</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>is,</hi>
+                        </item>
+                        <item>
+                           <hi>Paul Saunders,</hi>
+                        </item>
+                        <item>
+                           <hi>John Blunſton,</hi>
+                        </item>
+                        <item>
+                           <hi>William Cooper,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>kray,</hi>
+                        </item>
+                        <item>
+                           <hi>William Byles,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Lloyd,</hi>
+                        </item>
+                        <item>
+                           <hi>John Williford,</hi>
+                        </item>
+                        <item>
+                           <hi>Nicholas VValln,</hi>
+                        </item>
+                        <item>
+                           <hi>VVilliam VVatſon,</hi>
+                        </item>
+                        <item>
+                           <hi>George Maris,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Ducket,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſhua Fearne,</hi>
+                        </item>
+                        <item>
+                           <hi>Evan Morris,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard VValter.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="response">
+               <head>Here follows Two Anſwers to the ſaid Judgments.</head>
+               <head type="sub">To all faithful Friends in <hi>Pennſilvania, Eaſt</hi> and <hi>Weſt-Jarſey,</hi> and to all every where elſe in all parts of the VVorld, to whoſe hands this may come, The Salutation of Love.</head>
+               <p>WE in behalf of our ſelves, and many Brethren, who are falſly called the Seperate Meeting at <hi>Philadelphia,</hi> having taken into our ſerious and weighty Conſideration, three ſeveral Papers given forth by them of the oppoſite ſide, who have oppoſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d us, and continue to oppoſe us in our preſent Teſtimony to the Truth of
+<pb n="6" facs="tcp:56826:4"/>
+Chriſt, and his bleſsed Goſpel &amp; Doctrine, <hi>viz.</hi> The firſt given forth by the Monthly Meeting of the oppoſite ſide, the 20 of 3d Month, 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>92<g ref="char:punc">▪</g> wherein they clear <hi>T. Fitzwater</hi> of his falſly accuſing <hi>G. K.</hi> for <hi>denying the ſufficiency of the Light,</hi> ſaying expreſly in their ſaid Paper, <hi>That fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r credible VVitneſſes giving their Teſtimony, that they heard</hi> G. K. <hi>ſay, he did not believe the Light was ſufficient without ſome-what elſe; the meeting ſaw no reaſon to give Judgment against</hi> T. Fitzwater <hi>in t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is particular, the ſaid</hi> Thomas <hi>condemning the raſh ſpirit that he ſpoke theſe words in, though the Charge in it ſelf was true.</hi> And <hi>G. K.</hi> having both at a Quarterly and Monthly Meeting proceeding, ſufficiently proved, &amp; which was confeſ<g ref="char:EOLhyphen"/>ſed by <hi>T. Lloyd,</hi> as the Mouth of theſe Meetings, <hi>that by that ſome-what elſe,</hi> G. K. <hi>had frequently declared he did not mean humane Learning, nor the Scriptures, nor outward preaching (altho' the Scriptures, and outward <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Instrumental, in Gods ordinary way of working, together with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> inward operation of the ſpirit to mens ſalvation) as abſolutely neceſſary, but the Man Chriſt Jeſus, and what he did and ſuffered for us on Earth, and what he now doth for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in Heaven, &amp; the fullneſs that dwelleth in him.</hi> By which it plainly appeareth, the ſaid Monthly Meeting hath excluded the Man Chriſt Jeſus, our bleſſed Mediator &amp; Saviour, from having any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> concern in our Salvation, and therefore we do unanimouſly, &amp; with one heart judge &amp; condemn their falſe Judgment, in claming <hi>Tho Fitzwater,</hi> that hath this tendency, not only to condemn <hi>G. K.</hi> for his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Chriſtian Doctrine,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is a <hi>plain denyal of the Man Christ Jeſus,</hi> &amp; the <hi>great Merits, &amp; Va<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s &amp; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of his Sufferings, Death, Reſurrection, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Aſse<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>on, and his Mediation for us in Heaven;</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which are ſome<g ref="char:EOLhyphen"/>what elſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the People called <hi>Quakers</hi> commonly underſtand by the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght, to wit, the Light in every mans Conſcience. And by this raſh a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d inconſiderate Act of their Monthly Meeting, proceeding from great <hi>Ignorance, Error</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nbelief</hi> in them, they have ſufficiently declared themſelves to be <hi>no true Believers in the Man Chriſt Jeſus,</hi> and therefore <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Chriſtians;</hi> &amp; for this cauſe we cannot own them to be our <hi>Chriſtian <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> nor joyn with them in any <hi>Religious VVorſhip,</hi> until the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> con<g ref="char:EOLhyphen"/>demn themſelves for the ſaid Act, and give us ſome evidence of their <hi>un<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> Repentanos</hi> and <hi>ſincere Faith,</hi> by their open <hi>Confeſſion</hi> and <hi>Decla<g ref="char:EOLhyphen"/>ra<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> of the <hi>Truth of Chriſt,</hi> which now they have denyed.</p>
+               <p>The ſecond Paper is given forth by a Meeting of theſe called <hi>Friends of the Ministry,</hi> ſigned by <hi>Sam. Jenings,</hi> as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k of the ſaid Mee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, wherein they give too partial and defective Judgment againſt <hi>VVilliam
+<pb n="8" facs="tcp:56826:5"/>
+Stockdale,</hi> not blaming him for any <hi>Offence</hi> to <hi>God,</hi> or <hi>Chriſt,</hi> nor con<g ref="char:EOLhyphen"/>victing him for his <hi>ſin of Blaſphemy,</hi> whereof he was guilty, in charging G.K. for <hi>preaching Two Chriſts,</hi> becauſe he preach'd <hi>Faith in Chriſt with<g ref="char:EOLhyphen"/>in,</hi> and <hi>in Chriſt without us,</hi> wherein he plainly denyed <hi>Faith in Chriſt without us,</hi> that we judge <hi>Blaſphemy against the Son of Man.</hi> Alſo, the ſaid Meeting hath falſly judged and blamed G. K. for calling <hi>W. S. An Ignorant Heathen;</hi> for ſeeing he denyed <hi>Faith in Chriſt without us,</hi> we judge it was his proper Name, and he was not worthy to be accounted in the Truth, having diſcovered his ſo great Ignorance and Unbelief in one of the <hi>great Fundamentals of the Chriſtian Faith.</hi> Alſo, they falſly accuſe G. K. for not giving <hi>W. S. Goſpel Order,</hi> whereas upon due ex<g ref="char:EOLhyphen"/>amination, we find, that he had given him ſufficient <hi>Goſpel Order.</hi>
+               </p>
+               <p>The third Paper is ſigned by <hi>Samuell Jenings, John Simcock, Thomas Lloyd,</hi> and others, in Number 28, all pretended Preachers, wherein they have paſſed a moſt falſe Judgment againſt <hi>G. K.</hi> for his ſound <hi>Christian Doctrine,</hi> and <hi>Godly Zeal,</hi> in ſharply reproving <hi>groſs Anti-Chriſtian Errors,</hi> that he had detected them guilty of, partly by the <hi>Open Confeſſion of ſome,</hi> and partly by the <hi>Co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce of others,</hi> and ſeeking to cloak and cover and defend the <hi>Guilty;</hi> and the ſaid three Papers, and the matter contained in them being ſufficiently anſwered in a late Book, called, <hi>The Plea of the Innocent, &amp;c.</hi> which we having read and well conſidered, do approve of, and allow to be given forth by our una<g ref="char:EOLhyphen"/>nimous Conſent and Approbation, the particular things, in matter of Fact, therein contained, being all known to ſome of us, and the moſt principal to moſt of us: And we of this Meeting deliver it as our una<g ref="char:EOLhyphen"/>nimous Judgment, that all theſe who have given judgment in the ſaid three Papers above-mentioned, have given a falſe judgment in them againſt the Truth, and againſt <hi>G. K.</hi> and his Friends joyned with him in this Teſtimony. And we do declare againſt their falſe Judgment, and ſay, <hi>That</hi> G. K. <hi>and other Friends of the Miniſtry joyned with him in this Teſtimony, ought not to forbear the Exerciſe o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> their Miniſterial Gift that God hath given them, notwithſtanding the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Judgment of falſe Bre<g ref="char:EOLhyphen"/>thren, that have joyned together in a Faction against him, and his faithful Brethren, but that he and his faithful Brethren of the Ministry ought to be encouraged and received by all faithful Friends every where, in the uſe and exerciſe of their Ministerial Gifts, which we are perſwaded they still have, and the uſe and exerciſe thereof will tend to the Glory of God, the Proſperity of Truth, and Salvation of Souls.</hi> And we alſo deliver it as
+<pb n="9" facs="tcp:56826:5"/>
+our unanimous Judgment, that all theſe 28 Perſons that have ſigned that falſe Judgment againſt <hi>G.K.</hi> &amp; his Friends, ought not to be owned nor countenanced in their preaching or praying, but denyed, and all others that juſtifie them, until they condemn themſelves for their ſaid falſe and raſh Judgment againſt <hi>G. K.</hi> and his Brethren; and until they give ſome publick and open Confeſſion and Declaration that they are <hi>ſound in the Faith of Chriſt,</hi> they having given ſufficient cauſe to us, to conclude, <hi>That at preſent they have not the ſound Faith of Christ.</hi> And tho' we have juſt cauſe to blame them for condemning us without all Hearing and Trial, yet they have no cauſe to blame us, becauſe we have oft <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ought and requeſted a Meeting with them to have things of Difference fairly debated and tried, but could never obtain it; and they having new made publick their falſe Judgment againſt us, in three ſeveral Papers, we are concerned, for the <hi>Defence of Truth,</hi> and our <hi>Rep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tation,</hi> both as <hi>Men</hi> and <hi>Christians,</hi> to give forth this publick Te<g ref="char:EOLhyphen"/>ſtimony againſt them, and to recommend it to all faith<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Friends to conſider and examine by the Spirit of Truth; and let both their pub<g ref="char:EOLhyphen"/>lick Papers and ours be impartially weighed in the Ballance of Truth, in order to which we are willing that all their papers be printed as well as ours, that have been publiſhed on both ſides, that ſo the impartial Readers may have a fair Opportunity to judge of both.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given forth at our Meeting at the Houſe of</hi> Phillip James <hi>in</hi> Philadel<g ref="char:EOLhyphen"/>phia <date>
+                        <hi>the 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 5th month,</hi> 1692.</date> 
+                     <hi>in behalf of many of our Bre<g ref="char:EOLhyphen"/>thren both in Town and Country, who are one with us in this Teſtimony, though not now preſent.</hi>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Richard D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ngworth,</hi>
+                        </item>
+                        <item>
+                           <hi>Joan Wells,</hi>
+                        </item>
+                        <item>
+                           <hi>Phillip James,</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Furnis,</hi>
+                        </item>
+                        <item>
+                           <hi>James S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>attick,</hi>
+                        </item>
+                        <item>
+                           <hi>James Choper,</hi> ſen.</item>
+                        <item>
+                           <hi>William Davis,</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Wallis,</hi>
+                        </item>
+                        <item>
+                           <hi>James Poulter,</hi>
+                        </item>
+                        <item>
+                           <hi>Nicholas Fierce,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Budd,</hi>
+                        </item>
+                        <item>
+                           <hi>Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n Barclay,</hi>
+                        </item>
+                        <item>
+                           <hi>William Bradford,</hi>
+                        </item>
+                        <item>
+                           <hi>James C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>per,</hi> jun.</item>
+                        <item>
+                           <hi>John Po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>tus,</hi>
+                        </item>
+                        <item>
+                           <hi>John M' C<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                                 <desc>••••</desc>
+                              </gap>,</hi>
+                        </item>
+                        <item>
+                           <hi>James Chick,</hi>
+                        </item>
+                        <item>
+                           <hi>John Bartram,</hi>
+                        </item>
+                        <item>
+                           <hi>Abel Noble,</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph VValker,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomus Paſchall,</hi>
+                        </item>
+                        <item>
+                           <hi>Richard H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>liard,</hi>
+                        </item>
+                        <item>
+                           <hi>William Watte,</hi>
+                        </item>
+                        <item>
+                           <hi>Anthony St<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ges,</hi>
+                        </item>
+                        <item>
+                           <hi>Ralph VVard,</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas P<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>t,</hi>
+                        </item>
+                        <item>
+                           <hi>Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>a<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                                 <desc>•••••</desc>
+                              </gap>,</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Chamberlain,</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:56826:6"/>
+               <head>An Expoſtulation with <hi>Samuell Jenings, Thomas Lloyd,</hi> and the reſt of the twenty eight Unjuſt Judges and Signers of the Paper of Condemnation againſt <hi>G. K.</hi> &amp; his Friends. And Complain for a Pub<g ref="char:EOLhyphen"/>lick Hearing and Tryal before all Impar<g ref="char:EOLhyphen"/>tial People.</head>
+               <p>WHereas <hi>Samuell Jenings, Thomas Lloyd,</hi> and others being in Number 28 have publiſhed a Paper a<g ref="char:EOLhyphen"/>gainſt G. K. the reſt of his Brethren wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are joyned with him in this Teſtimony for the Lord Jeſus, againſt whom they prophecy, <hi>That Dryneſs and Barrenneſs from the Lord, will be their Reward.</hi> We having read and conſidered the ſaid Judgment, do teſtifie againſt it, as an unjuſt and unrigh<g ref="char:EOLhyphen"/>teous Act; but that which aggravates the Crime againſt them is, that they ſay, <hi>This Meeting having tenderly and orderly dealt with him,</hi> &amp;c. when they know in their Conſciences, they dealt 10. with G. K. n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r never ſent for him to their ſaid Meeting, but tryed and judged him altogether in his abſence, wherein they have done worſe than the <hi>Baptists</hi> did in the caſe of <hi>Tho. Hicks;</hi> for when Friends appealed to the People call'd <hi>Baptiſts</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ice againſt <hi>T. Hicks,</hi> they took their time &amp; appointed a Meeting, and 3 or 4 days before the ſaid Meeting ſent Let<g ref="char:EOLhyphen"/>ters to G. W. and W. P's Houſes to give them notice to be at the Meeting, but they being ſo far from home that the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could not have timely notice, it was reckon'd great Injuſtice for them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o proceed and try Friends and <hi>T. H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cks</hi> in their abſence; and
+<pb n="11" facs="tcp:56826:6"/>
+upon Complaint they give another Meeting: But <hi>T. Lloyd, S. Jenings,</hi> and the reſt are ſo far ſhort of the Juſtice of the <hi>Baptiſts,</hi> that they never ſo much as acquainted G. K. of their Meeting<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or intent to proceed againſt him, nor never ſent for him that we can underſtand, only <hi>W Byles</hi> came to G.K's houſe and asked for him, his Wife told, he was from home, and ſhe expected him the next Morning, but they told nothing of their buſineſs with him, but in all haſte proceeded to judge him in his abſence before he came home. Is this your orderly dealing with him? Is this your Juſtice? Is this your Chriſt an tender<g ref="char:EOLhyphen"/>neſs? your Charity, &amp; your bearing with him in a Chriſtian Spirit? for ſhame ceaſe thus proceeding, or you will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a ſtink in the Noſtrils of the Nations where it ſhall be told<g ref="char:punc">▪</g> What! pretend to <hi>Chriſtianity,</hi> &amp; fall ſhort of <hi>Heathen</hi> Juſtice! <hi>John</hi> 7.50, 51 <hi>Acts</hi> 25.16, 17 Did the <hi>Baptiſts</hi> do unfair in procee<g ref="char:EOLhyphen"/>ding to try Friends in their abſence? Then much more you: for they gave ſome Notice before of their intending to Try <hi>Tho. Hicks,</hi> but you never ſo much as told G. K. of your ſo Meeting: Wherefore allow us ſo much Juſtice as the <hi>Baptiſts</hi> did to have another Meeting publickly to try G. K. where all People may be preſent, that are willing to come, and whereof G. K. may have timely notice, and liberty to plead his own Cauſe, and let all Impartial People judge; &amp; through Gods Aſſiſtance we ſhall make it appear, that your ſaid Judgment is unjuſt, &amp; G. K. not worthy of Condemnation. Was there ever ſuch an Act done in any Chriſtian Society before, to con<g ref="char:EOLhyphen"/>demn a man without ever hearing of him, or ſuffering him to ſpeak for himſelf? Surely its far ſhort of any worldly Court, where the party ſhall have timely notice to prepare for his his Trya<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd liberty to plead his own cauſe in the face of the Country, and where his Accuſers are not allowed to ſit and give Judgment againſt him: But ſo it is, that theſe Unjuſt &amp; Unrighteous Judges have proceeded to try, judge, and publiſh their Judgment againſt G. K. without ever hearing of him,
+<pb n="12" facs="tcp:56826:7"/>
+when its well known the moſt of them were his great Oppo<g ref="char:EOLhyphen"/>ſers: They might be ſure this way to condemn him, when only a Faction of them get toge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her, and accuſe him, and he nor any for him be preſent to ſpeak for him. But that which ſtill hightens the Crime of <hi>Tho. Lloyd, Sam Jenings,</hi> and the reſt of the 28 Unjuſt Judges, is, that they of the Miniſtry ſhould give ſuch a falſe Judgment, and then impoſe it on all the Meetings in theſe 3 Provinces, when moſt of the Friends thereof are great ſtrangers to the Matter in Controverſie, not knowing which Party is in the Right, but they muſt take ſaid Judgment upon Truſt from them, without enquiring into the Cauſe and Verity thereof; and where they think their ſaid Judgment will not readily be ſwallowed down, they will fol<g ref="char:EOLhyphen"/>low it from Meeting to Meeting, cloathed with their Magi<g ref="char:EOLhyphen"/>ſtratical Robes, and if any Friends ſhow their diſlike of having it impoſed on them without their own conſent, and conſidera<g ref="char:EOLhyphen"/>tion of the matter, preſently threaten to bind them to the good Behaviour, and to the Peace, and call out for a Conſtable, thereby endeavouring to trample us down by their Magiſtra<g ref="char:EOLhyphen"/>tical Power &amp; Authority, as <hi>Samuell Jenings, Sam. Richardſon, Thomas Lloyd, John Delavall</hi> and <hi>Anthony Morris</hi> did lately at a Monthly Meeting near <hi>Frankford,</hi> as is well known to many. Oh! <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> whither do you think theſe things will run? will it not give People juſt cauſe to ſay, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Qua<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers</hi> are turned Perſecu<g ref="char:EOLhyphen"/>tors? But our Truſt and Confidence is in the Lord alone, who hitherto has pleaded the Cauſe of the Innocent, and carried his People through all the Powers &amp; Oppoſitions that have hither<g ref="char:EOLhyphen"/>to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> up againſt them in all Ages, and we doubt not but he will do the ſame for us, as we keep faithful to him, and to the Guidance of his holy Spirit, Light and Life in our hearts. But are theſe your Proceedings <hi>Chriſtian,</hi> or <hi>Proteſtant</hi>-like<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? or do they not ra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er reliſh of Rank <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pery,</hi> for the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Miniſtry to impoſe their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the People without <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> enquiring <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the matter? Is <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Obedience?
+<pb n="13" facs="tcp:56826:7"/>
+Is not this believing as the Church believes, in order to bring<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in <hi>Ignorance the Mother of Devotian?</hi> Oh! who but ignorants and blind men, but can ſee theſe things? And yet now will ye ſtand in them, O ye <hi>
+                     <g ref="char:V">Ʋ</g>njuſt Judges!</hi> will ye not be willing to anſwer our juſt Complaint for a Hearing? Will you come ſhort of the Juſtice of the <hi>Baptiſts,</hi> who admitted of another Meeting for a Hearing? But perhaps you will ſay, <hi>The Act of that Meeting was Infallible, being made up of ſuch a Body of the Miniſtry,</hi> (as <hi>Arthur Cook</hi> ſaid lately in the Houſe of G. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>That a Yearly Meeting could not Err</hi>) But we deſire to hope, that ſom of you will better conſider of it, &amp; anſwer our juſt Complaint, and no lurk in holes and corners, but come openly and defend your ſelves, and repent of the Error and falſe Doctrine you have run into, and let a time and place be appointed &amp; agreed on by both Parties for a Publick Hearing: If you have Truth and Juſtice on your ſide, come forth and let it appear before the World, and ſay not <hi>that ſuch and ſuch things are falſe,</hi> but prove them to be ſo; and bring things to the Light, and let not Chriſts words be fullfilled on you, <hi>viz. You hate the Light becauſe your deeds are Evil, &amp;c.</hi> Say not, that we are bold and daring thus to Challenge you; for its not wr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in a preſump<g ref="char:EOLhyphen"/>tuous Spirit as relying on our own Strength or Parts, but on the Lord alone, on whom is our Dependance, and who knows the Innocency of our Cauſe, and therefore we are not afraid to bring it to the Teſt, but willing to appear openly, as hither<g ref="char:EOLhyphen"/>to we have done in Print, and not as your Practice is to report falſe things ſecretly abroad, which we know not whom to faſten upon; but what we publiſh in Print remains to be the Authors, whether true or falſe; if falſe, why don't you refute it, the Preſs is free and open for you, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for any? But the matter in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Printed Books is true, and ſtands over your Heads, and which you will never be able to R<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>te.</p>
+               <p>But next, let us enquire, what have you condemned G. K. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſome of you ſay, <hi>Partly for matter of Doctrine, and partly
+<pb n="14" facs="tcp:56826:8"/>
+for hard Words;</hi> But as for Doctrine you have not mentioned what it is; and as for the hard Names you mention, it is made appear in <hi>The Plea of the Innocent, &amp;c.</hi> that they were juſtly given by G. K. to them that deſerved the ſame: But have his Oppoſers given no hard Names, no unjuſt and falſe Reflections? yea, many. But why only then muſt G. K. be condemned, and not they alſo who have given hard words and falſe Names to G. K.? When G. K. complained againſt them for not giving Judgment againſt <hi>W. Stockdale's</hi> Blaſphemy <hi>Samuell Jenings</hi> could excuſe it, by bringing the Example and Practice of worldly Courts, ſaying, <hi>George, thou haſt reviled thy Brethren, and in Courts we allow of Diſcount.</hi> So that according to <hi>S. Jenings, W. Stockdale's</hi> Blaſphemy muſt be diſcounted againſt G. K's Reviling his Brethren, as they account it, but can never prove. But if Diſcount be allowable in this caſe, why are not G. K's hard words diſcounted againſt thoſe that have been given to him, ſo far as they will reach? And that it may appear what hard Names have been given, we think fit here to mention, <hi>viz.</hi>
+               </p>
+               <p>They ſay G. K. has called them,
+<list>
+                     <item>1. <hi>Fools,</hi>
+                     </item>
+                     <item>2. <hi>Ignorant Heathens,</hi>
+                     </item>
+                     <item>3. <hi>Infidells,</hi>
+                     </item>
+                     <item>4. <hi>Silly Souls,</hi>
+                     </item>
+                     <item>5. <hi>Lyars,</hi>
+                     </item>
+                     <item>6. <hi>Hereticks,</hi>
+                     </item>
+                     <item>7. <hi>Rotten Ranters,</hi>
+                     </item>
+                     <item>8. <hi>Muggletonians.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>They of the other ſide have called G. K.
+<list>
+                     <item>1. <hi>Brat of Babylon,</hi>
+                     </item>
+                     <item>2. <hi>Accuſer of the Brethren,</hi>
+                     </item>
+                     <item>3. <hi>Apoſtate,</hi>
+                     </item>
+                     <item>4. <hi>Worſe than Prophane,</hi>
+                     </item>
+                     <item>5. <hi>A Troubler of the Church,</hi>
+                     </item>
+                     <item>6. <hi>A Perſon that no one could have Difference with, but he was in danger of the Life of his Soul,</hi>
+                     </item>
+                     <item>7. <hi>A Preacher of two Chriſts,</hi>
+                     </item>
+                     <item>8. <hi>A Teller of an Old St</hi> Andrews <hi>Story.</hi>
+                     </item>
+                     <item>9. <hi>Pope,</hi>
+                     </item>
+                     <item>10. <hi>Father Confeſſor,</hi>
+                     </item>
+                     <item>11. <hi>Lyar,</hi>
+                     </item>
+                     <item>12. <hi>Devil,</hi>
+                     </item>
+                     <item>13 <hi>Muggletonian,</hi>
+                     </item>
+                     <item>14. <hi>Com<g ref="char:EOLhyphen"/>pared him to a Wolf Tyger, &amp;c.</hi>
+                     </item>
+                     <item>15 <hi>One that alwayes endea<g ref="char:EOLhyphen"/>voured to keep down the Power of Truth.</hi>
+                     </item>
+                     <item>16. <hi>A more vexatious Adverſary than</hi> Hicks, Faldo, Scanderet, <hi>or the worſt of Enemies.</hi>
+                     </item>
+                     <pb n="15" facs="tcp:56826:8"/>
+                     <item>17. <hi>One that is fallen upon the ſoaring Mountains, &amp;c.</hi>
+                     </item>
+                     <item>18. <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> a man ſlain.</hi>
+                     </item>
+                     <item>19. <hi>Become Treacherous to the Spouſe of his Youth.</hi>
+                     </item>
+                     <item>20. <hi>Fallen <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> his firſt Love.</hi>
+                     </item>
+                     <item>21. <hi>Gone into a Spirit of Enmity, Wrath, Self-Exaltation, Contention, &amp;c.</hi>
+                     </item>
+                     <item>22. <hi>Foam<g ref="char:EOLhyphen"/>ing out his own Shame.</hi>
+                     </item>
+                     <item>23. <hi>A Perſon without the Fear of God before his Eyes.</hi>
+                     </item>
+                     <item>24. <hi>Leting looſe the Reins to an Extravagant Tongue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>25. <hi>Broken out into many <g ref="char:V">Ʋ</g>ngodly Speeches, Ratling Accuſations, Pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>onate Threatenings, being Cruel, &amp;c. like an <g ref="char:V">Ʋ</g>nwearied Adverſary.</hi> With many more that can be proved.</item>
+                  </list>
+               </p>
+               <p>Now let the Impartial Reader judge, which have exceeded in hard Words? and whether they are not very partial to paſs by all that hath been ſaid againſt G. K. and condemn him for what he hath ſpoke in i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s right-place, as is made appear in the Book called, <hi>The Plea of the Innocent.</hi> And yet when G. K. was the Complainer for many Months, for Juſtice to be done to Truth, they could plead for Diſcount, and put Blaſphemy againſt Chriſt Jeſus, in the Ballance againſt Reflections upon themſelves, and yet now will not diſount for hard words. And a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſo they have judged a whole Meeting without ever admo<g ref="char:EOLhyphen"/>niſhing of them. If this be not Partiality, Injuſtice and Un<g ref="char:EOLhyphen"/>righteous Judgment, tell us what is. And clear your ſelves of theſe things, if you can.</p>
+               <closer>
+                  <dateline>
+                     <hi>Signed by us, in behalf of the reſt of our Friends by order of our Meeting,</hi> 
+                     <date>
+                        <hi>the 18th of the</hi> 5 <hi>Month,</hi> 1692.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Thomas Budd,</item>
+                        <item>Richard Hilliard,</item>
+                        <item>John Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t,</item>
+                        <item>Thomas Paſchall,</item>
+                        <item>William Bradford,</item>
+                        <item>James Cooper,</item>
+                        <item>Elizabeth Keith.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:56826:9"/>
+            <head>Books to be Sold by <hi>William Bradford</hi> in <hi>Philadelphia.</hi> 1692.</head>
+            <p>The Chriſtian Faith of the People called <hi>Quakers</hi> in <hi>Rhode-Iſland.</hi> 4 <abbr>d.</abbr>
+            </p>
+            <p>A Catechiſm for Children and Youth, and ſuch others as need to be inſtructed in the firſt Principles of the <hi>Chriſtian Religion.</hi> By <hi>G. K. Pr. 6 <abbr>d.</abbr>
+               </hi>
+            </p>
+            <p>A Teſtimony concerning the Reſurrection of the Dead, Day of Judgment, and Christs laſt Coming &amp; Appearing without u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. By <hi>G. K. 3 <abbr>d.</abbr>
+               </hi>
+            </p>
+            <p>Truth and Innocency defended, againſt Calumny &amp; Defamation, in a late Report concerning the Revolution of Humane Souls, &amp;c. <hi>G. K. 5 <abbr>d.</abbr>
+               </hi>
+            </p>
+            <p>Some Cauſes and Reaſons of the late Seperation that hath come to paſs here at <hi>Philadelphia.</hi> Shewing, That <hi>G. K</hi>'s Oppoſers were the Cauſe of the ſaid Breach and Seperation, and moſt properly are the ſeperate Meeting. To<g ref="char:EOLhyphen"/>gether with an account of the ſincere Christian Faith of <hi>G. K.</hi> and his Friends. Price <hi>9 <abbr>d.</abbr>
+               </hi>
+            </p>
+            <p>
+               <hi>The Plea of the Innocent,</hi> againſt the <hi>Falſe Judgment of the Guilty,</hi> being a Vindication of <hi>G Keith</hi> &amp; his Friends, from the falſe Judgment, Calumnies and Defamations of <hi>S. Jenings, J. Simcock, T. Lloyd</hi> and others, being in Number Twenty Eight. <hi>Price 6 <abbr>d.</abbr>
+               </hi>
+            </p>
+            <p>A Viſion concerning Seperation among Friends in <hi>Old England.</hi> By <hi>G. F.</hi>
+            </p>
+            <p>A faithful Warning and Exhortation to Friends to beware of ſeducing Spirits. <hi>By S. Criſp. 6 <abbr>d.</abbr>
+               </hi>
+            </p>
+            <p>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Appeal from the Twenty Eight Judges, to the Spirit of Truth and true Judgment in all faithfull Friends, called <hi>Quakers.</hi>
+            </p>
+            <p>A true Coppy of three Judgments given forth by a Party of men, called <hi>Quakers</hi> at <hi>Philadelphia,</hi> againſt G. Keith, &amp;c. With two Anſwers to the ſame.</p>
+            <p>New Husbandry to New-England, or an Experienced way to raiſe Quick Hedges and Clover Graſs; and the way to make Syder.</p>
+            <p>
+               <hi>Note, That in ſome of Printed Copies of the</hi> Appeal from the twenty eight Judges, &amp;c. <hi>there happen'd an Error in the Poſtſcript, which pray amend,</hi> viz. <hi>line 1. for</hi> Anthony Morris <hi>read</hi> Sam. Richardſon.</p>
+            <p>
+               <hi>And whereas it is reported,</hi> That the Printer being a favourer of G. K. he will not print for any other, which is the reaſon that the other Party appear not in Print as well as <hi>G K. Theſe are to ſignifie, that the Printer hath not yet refuſed to print any thing for either Party; and alſo ſignifies that he doth not refuſe, but is Willing and ready to print any thing for the future that</hi> G. K's <hi>Oppoſers ſhall bring to him.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
